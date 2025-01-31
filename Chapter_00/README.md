@@ -62,7 +62,7 @@ For detailed handwritten notes, check out the **PDF Notes** section in this repo
 
 
 ## Special Thanks 🙌
-A special thanks to **Code with Harry** for providing **amazing Java PDF notes**, which have been included in this repository.
+A special thanks to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for providing **amazing Java PDF notes**, which have been included in this repository.
 
 ## Thank You
 [JFA](https://github.com/abhinandan2540)
