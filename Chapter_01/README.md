@@ -29,7 +29,7 @@ Non-primitive data types are more complex and include:
 To help reinforce these concepts, I have included some questions that will test your understanding of primitive and non-primitive data types. Solving these questions will improve your grasp of Java's type system and memory management.
 
 ## Special Thanks
-A special thanks to **Code with Harry** for his insightful PDF notes, which have been a valuable resource for learning Java.
+A special thanks to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for his insightful PDF notes, which have been a valuable resource for learning Java.
 [JavaChapter1.pdf](https://github.com/user-attachments/files/18620425/JavaChapter1.pdf)
 
 ## Thank You
