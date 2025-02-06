@@ -82,6 +82,10 @@ To strengthen your understanding, practice these problems:
 ## 🙏 Special Thanks
 A huge **THANK YOU** to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for his insightful notes that helped in building this content! 🎉  
 
+[Chapter_6_Practice_Set.pdf](https://github.com/user-attachments/files/18693401/Chapter_6_Practice_Set.pdf)
+[Chapter_6_Arrays.pdf](https://github.com/user-attachments/files/18693398/Chapter_6_Arrays.pdf)
+
+
 ---
 ## Thank You
 [JFA](https://github.com/abhinandan2540)
