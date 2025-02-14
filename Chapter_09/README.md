@@ -102,8 +102,8 @@ public class AccessModifiersDemo {
 ## **Special Thanks**
 A huge **thank you** to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for providing insightful notes that helped in understanding these concepts! 🎉
 
+### Notes
 [Chapter9.pdf](https://github.com/user-attachments/files/18765273/Chapter9.pdf)
-
 [Ch9PS.pdf](https://github.com/user-attachments/files/18765271/Ch9PS.pdf)
 
 ### Thank You
