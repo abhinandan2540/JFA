@@ -129,8 +129,9 @@ Object-Oriented Programming (OOP) is a **powerful programming paradigm** that ma
 ## **🙏 Special Thanks**  
 A huge thanks to **[Code with Harry](https://www.codewithharry.com/)** for his incredible notes and tutorials that helped in understanding Java OOP concepts in depth. 🎯  
 
-[Ch8_PS.pdf](https://github.com/user-attachments/files/18749577/Ch8_PS.pdf)
+## **Notes**
 
+[Ch8_PS.pdf](https://github.com/user-attachments/files/18749577/Ch8_PS.pdf)
 [Ch8.pdf](https://github.com/user-attachments/files/18749576/Ch8.pdf)
 
 
