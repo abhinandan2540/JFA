@@ -45,7 +45,7 @@ This repository includes practical Java examples implementing all these concepts
 ## 🙏 **Special Thanks**
 A huge **thank you** to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for his insightful notes and tutorials, which have been a great resource for learning Java. His structured approach to teaching has made complex topics easier to understand! 🎉
 
-### Notes
+## **Notes**
 [Chapter10PracticeSet.pdf](https://github.com/user-attachments/files/18797235/Chapter10PracticeSet.pdf)
 [Chapter10.pdf](https://github.com/user-attachments/files/18797231/Chapter10.pdf)
 
