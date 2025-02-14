@@ -64,6 +64,7 @@ For more Java concepts and practice questions, **follow this repository** and st
 ### **Special Thanks**
 A special thanks to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for providing helpful Java notes that assisted in creating this content. 🙌
 
+## **Notes**
 [Chapter 4 - Practice Set.pdf](https://github.com/user-attachments/files/18651890/Chapter.4.-.Practice.Set.pdf)
 [Chapter 4 - Conditionals.pdf](https://github.com/user-attachments/files/18651889/Chapter.4.-.Conditionals.pdf)
 
