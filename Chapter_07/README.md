@@ -88,8 +88,8 @@ At the end of each chapter, you'll find **coding assignments** to practice your 
 ## 🙏 Special Thanks  
 A big **thank you** to [Code with Harry](https://www.youtube.com/@CodeWithHarry) for his amazing notes and resources that helped in creating this roadmap!  
 
+## **Notes**
 [Chapter7_PracticeSet.pdf](https://github.com/user-attachments/files/18717177/Chapter7_PracticeSet.pdf)
-
 [Ch7.pdf](https://github.com/user-attachments/files/18717175/Ch7.pdf)
 
 ### Thank You
