@@ -53,6 +53,7 @@ For more Java concepts and coding exercises, **follow this repository** and stay
 ### **Special Thanks**
 A special thanks to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for providing excellent Java notes that helped in creating this content. 🙌
 
+## **Notes**
 [Chapter_5.pdf](https://github.com/user-attachments/files/18660477/Chapter_5.pdf)
 [Chapter_5 _Practice_Set.pdf](https://github.com/user-attachments/files/18660474/Chapter_5._Practice_Set.pdf)
 
