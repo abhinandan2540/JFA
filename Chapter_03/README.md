@@ -29,8 +29,8 @@ To reinforce the concepts, this repository includes several practice questions r
 
 Special thanks to [**CodeWithHarry**](https://www.youtube.com/@CodeWithHarry) for his delightful notes, which have been a valuable resource for learning Java.
 
+## **Notes**
 [Chapter 3 - Strings.pdf](https://github.com/user-attachments/files/18644692/Chapter.3.-.Strings.pdf)
-
 [Chapter 3 - Practice Set.pdf](https://github.com/user-attachments/files/18644690/Chapter.3.-.Practice.Set.pdf)
 
 

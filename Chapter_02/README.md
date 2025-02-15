@@ -32,8 +32,8 @@ To help reinforce these concepts, I have included some questions that will test 
 ## Special Thanks
 A special thanks to [**Code with Harry**](https://www.youtube.com/@CodeWithHarry) for his insightful PDF notes, which have been a valuable resource for learning Java.
 
+## **Notes**
 [Chapter2.pdf](https://github.com/user-attachments/files/18621924/Chapter2.pdf)
-
 [Ch2_Practice.pdf](https://github.com/user-attachments/files/18644725/Ch2_Practice.pdf)
 
 
