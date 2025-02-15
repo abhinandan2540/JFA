@@ -4,8 +4,8 @@ package OnlineLibrary;
  1. make an online library where user's can issueBook, returnBook, showAvailableBook
  2. array to show returnBook
  3. array to show availableBook
- 4. array to show issuer name and date for issueBook
- 5. array to show returner name and date for returnBook
+ 4. array to show  issueBook
+ 
 
  */
 
