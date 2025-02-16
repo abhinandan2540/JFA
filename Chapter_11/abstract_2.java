@@ -13,9 +13,10 @@ VEHICLE IS ABSTRACT (STILL THEORY let's assume)
 and stop by outputting key, so for jeep, theory came into reality (existence)
 
 * making lambo from theory to practical example
+* making mercedes from theory to practical example
  */
 
- abstract class Vehicle{
+abstract class Vehicle{
     abstract public void start();
     abstract public void stop();
 }
@@ -32,9 +33,47 @@ class Jeep extends Vehicle{
 }
 
 class Lambo extends Vehicle{
+    @Override
+    public void start() {
+        System.out.println("key & power button");
+    }
 
+    @Override
+    public void stop() {
+        System.out.println("power button press");
+    }
+}
+
+class MercedesECO extends Vehicle{
+    @Override
+    public void start() {
+        System.out.println("key & screen press");
+    }
+
+    @Override
+    public void stop() {
+        System.out.println("automatically AI off");
+    }
 }
 
 public class abstract_2 {
+    public static void main(String[] args) {
+        /*
+        AS VECHILE IS OUR CONCEPT (ABSTRACT)SO WE CAN'T INITIATE IT.
+        we can initiate practical examples (daughter classes) .
+         */
+
+//        Jeep jp=new Jeep();
+//        jp.start();
+//        jp.stop();
+
+//        Lambo lm=new Lambo();
+//        lm.start();
+//        lm.stop();
+
+        MercedesECO mes=new MercedesECO();
+        mes.start();
+        mes.stop();
+    }
 
 }
