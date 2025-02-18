@@ -54,5 +54,7 @@ public class Question_3 {
         Human hm=new Human();
         hm.hair();
 
+//        Q6 Q7 can be done from earier methods
+
     }
 }
