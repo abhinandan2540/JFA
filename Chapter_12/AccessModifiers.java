@@ -1,6 +1,7 @@
 package Chapter_12;
 
 // EXAMPLES ARE GIVEN FROM THE NEXT....
+// Mainly all the examples are inside the mypackages and others
 
 public class AccessModifiers {
     public static void main(String[] args) {
