@@ -15,7 +15,7 @@ We welcome contributions from the community! Here's how you can contribute:
 1. **Fork the Repository**: Click the fork button on the top right of the repo to create a copy.
 2. **Clone the Repository**: Use the following command to clone the repo to your local machine:
    ```sh
-   git clone https://github.com/your-username/JFA.git
+   git clone https://github.com/**********/JFA.git
    ```
 3. **Create a New Branch**: Create a new branch for your contributions:
    ```sh
