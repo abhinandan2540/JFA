@@ -111,6 +111,10 @@ public class AccessTest {
 ## **Special Thanks**
 This repository is inspired by and made possible with the help of [**Code with Harry**](https://www.youtube.com/@CodeWithHarry). His excellent notes and tutorials have been instrumental in creating this guide. 🚀
 
+[Chapter12_Java.pdf](https://github.com/user-attachments/files/18881222/Chapter12_Java.pdf)
+[Ch12psJava.pdf](https://github.com/user-attachments/files/18881221/Ch12psJava.pdf)
+
+
 ---
 
 ## **Stay Tuned for More Java Concepts!**
