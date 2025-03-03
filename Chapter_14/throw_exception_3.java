@@ -1,5 +1,7 @@
 package Chapter_14;
 
+// thorw example
+
 public class throw_exception_3 {
 
 //    creating a function
@@ -17,7 +19,5 @@ public class throw_exception_3 {
             System.out.println(e.getMessage());
 
         }
-
-
     }
 }
