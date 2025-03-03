@@ -1,5 +1,12 @@
 package Chapter_14;
 
+/*
+Exception is a built-in class in Java, found in the java.lang package.
+It is the parent class for all exceptions that can be caught and handled using try-catch.
+It extends the Throwable class, which allows exceptions to be thrown and caught.
+
+ */
+
 class MyException1 extends Exception{
     public MyException1(String message){
         super(message);
