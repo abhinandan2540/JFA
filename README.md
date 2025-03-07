@@ -19,7 +19,7 @@ We welcome contributions from the community! Here's how you can contribute:
    ```
 3. **Create a New Branch**: Create a new branch for your contributions:
    ```sh
-   git checkout -b feature-master
+   git checkout -b feature-branch
    ```
 4. **Make Changes**: Add your content, fix bugs, or enhance existing notes/questions.
 5. **Commit Changes**: Commit your changes with a meaningful message:
@@ -28,7 +28,7 @@ We welcome contributions from the community! Here's how you can contribute:
    ```
 6. **Push to GitHub**: Push your changes to your forked repository:
    ```sh
-   git push origin feature-master
+   git push origin feature-branch
    ```
 7. **Create a Pull Request**: Open a pull request from your forked repo to this main repository.
 
