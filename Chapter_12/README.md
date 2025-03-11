@@ -65,6 +65,8 @@ public class Main {
 ## **Access Modifiers in Java**
 Access modifiers determine the **visibility and accessibility** of classes, methods, and variables in Java.
 
+Default also known as no modifier : Default access can be public, private, or protected, as well as package, depending.
+
 ### **Types of Access Modifiers**
 | Modifier     | Within Class | Within Package | Outside Package (Subclass) | Outside Package |
 |-------------|-------------|----------------|--------------------------|----------------|
