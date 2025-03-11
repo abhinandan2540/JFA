@@ -8,7 +8,7 @@ Java is a **high-level, object-oriented programming language** developed by **Su
 
 ### Key Features of Java
 - **Platform Independent**: Java code runs on any platform with the help of the Java Virtual Machine (JVM).
-- **Object-Oriented**: Everything in Java is based on objects and classes.
+- **Object-Oriented**: Everything in Java is associated with classes and objects, along with its attributes and methods.
 - **Secure**: Java provides security features like bytecode verification and memory management.
 - **Multithreaded**: Supports multiple threads for better performance.
 - **Robust and Scalable**: Java has strong memory management and exception handling features.
